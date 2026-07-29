@@ -102,16 +102,21 @@ Comfortable across **Firebase, Supabase, Django, and REST/WebSocket** integratio
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arunrajpr-2000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Arunrajpr-2000&theme=radical&hide_border=true&background=0D1117" />
+<img src="https://github-profile-trophy.vercel.app/?username=Arunrajpr-2000&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
-<br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunrajpr-2000&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+---
+
+## 📈 Weekly Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunrajpr-2000&theme=react-dark&hide_border=true&bg_color=0D1117" />
 
 </div>
 
