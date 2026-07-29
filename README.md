@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:02569B&height=220&section=header&text=Arun%20Raj%20P%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20BLE%20%26%20IoT%20Specialist&descAlignY=55&descSize=20" width="100%"/>
+# 💙 Arun Raj P R
+
+### Flutter Developer &nbsp;|&nbsp; BLE & IoT Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=02569B&center=true&vCenter=true&width=650&lines=Crafting+pixel-perfect+Flutter+apps;Bridging+apps+with+the+physical+world;Turning+widgets+into+experiences;Android+%E2%80%A2+iOS+%E2%80%A2+Web+%E2%80%A2+BLE" />
 
