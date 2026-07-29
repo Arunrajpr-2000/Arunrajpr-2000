@@ -124,9 +124,9 @@ System Design         ██████░░░░░░░░░░░ 35%
 
 ## 🌐 Connect
 
-📧 your_email@gmail.com
+📧 arunrajpr3@gmail.com
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/arun-raj-p-r-a931a9245/)
 
 🌍 Portfolio (Coming Soon)
 
