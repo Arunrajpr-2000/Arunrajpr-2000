@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=600&height=70&lines=Arun+Raj+P+R" />
+# 𝗔𝗥𝗨𝗡 𝗥𝗔𝗝 𝗣 𝗥
 
-### Flutter Developer
+### `Flutter Developer`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=02569B&center=true&vCenter=true&width=650&lines=Crafting+pixel-perfect+Flutter+apps;Bridging+apps+with+the+physical+world;Turning+widgets+into+experiences;Android+%E2%80%A2+iOS+%E2%80%A2+Web+%E2%80%A2+BLE" />
 
