@@ -1,8 +1,8 @@
 <div align="center">
 
-# 💙 Arun Raj P R
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=600&height=70&lines=Arun+Raj+P+R" />
 
-### Flutter Developer &nbsp;|&nbsp; BLE & IoT Specialist
+### Flutter Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=02569B&center=true&vCenter=true&width=650&lines=Crafting+pixel-perfect+Flutter+apps;Bridging+apps+with+the+physical+world;Turning+widgets+into+experiences;Android+%E2%80%A2+iOS+%E2%80%A2+Web+%E2%80%A2+BLE" />
 
@@ -97,16 +97,6 @@ Comfortable across **Firebase, Supabase, Django, and REST/WebSocket** integratio
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arunrajpr-2000&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
